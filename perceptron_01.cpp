@@ -1,6 +1,8 @@
 #include <iostream>
 #include <stdio.h>
 #include <random>
+//Perceptron which Outputs Random Outpu between -1 and 1
+//Activation function
 using namespace std;
 int sign(int n){
   if (n>0){return 1;}
